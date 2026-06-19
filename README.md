@@ -1,0 +1,1 @@
+ScamBuster PRO Brain: AI anti-scam app. 2 DB system: local+dynamic auto-update every 30min. 4-layer brain checks local DB, global DB, regex keywords, ML TensorFlow Lite. Detects fraud SMS instantly. Shows Safe/Suspicious/Danger/Scam. AES encrypted, whitelist, CSV export, dark mode. 150+ languages.
